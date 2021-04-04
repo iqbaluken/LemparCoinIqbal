@@ -1,0 +1,4 @@
+id/com/pelitabangsa/lemparcoiniqbal/BuildConfig.java
+ id.com.pelitabangsa.lemparcoiniqbal.BuildConfig
+id/com/pelitabangsa/lemparcoiniqbal/LemparCoin.java
+ id.com.pelitabangsa.lemparcoiniqbal.LemparCoin
